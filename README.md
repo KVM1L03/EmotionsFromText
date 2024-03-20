@@ -1,6 +1,6 @@
 # Emotions from text classifier
 LM model which predicts an emotion based on given text.
-## Libraries used used:
+## Libraries used:
 * numpy
 * pandas
 * matplotlib
