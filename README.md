@@ -1,5 +1,5 @@
 # Emotions from text classifier
-Language model which predicts an emotion based on given text.
+Classifier which predicts an emotion based on given text.
 ## Dataset
 I created the dataset using ChatGPT. The structure looks like this:
 
